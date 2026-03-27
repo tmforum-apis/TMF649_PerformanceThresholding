@@ -10,4 +10,4 @@ jobs:
   call-api-release-workflow:
     uses: tmforum-apis/tmf-api-commons/.github/workflows/release-api.yml@main
     with:
-      api_name: TMF123 # Edit this line and set the API to fetch and publish
+      api_name: TMF649
